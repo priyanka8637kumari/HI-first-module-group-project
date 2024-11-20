@@ -9,7 +9,7 @@ module.exports = {
     publicPath: '',
     clean: true,  // Cleans the output directory before each build
   },
-  mode: 'development',  // Use 'development' for now
+  mode: 'production',  // Use 'development' for now
   devServer: {
     static: './dist',  // Serve files from 'dist' directory
     open: true,  // Automatically open the browser
