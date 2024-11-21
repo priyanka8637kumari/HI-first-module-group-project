@@ -54,9 +54,9 @@ function createservicesPage() {
     </section>
   
       <!-- Footer Section with Copyright -->
-      <footer>
-        <p>&copy; 2024 Restaurant Name. All rights reserved.</p>
-      </footer>
+        <footer>
+      <p>Copyright ©404Found Studio 2024</p>
+    </footer>
     `;
   
     return servicesDiv;

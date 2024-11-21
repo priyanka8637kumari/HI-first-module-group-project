@@ -38,8 +38,8 @@ function createContactPage() {
   </section>
 
     <!-- Footer Section with Copyright -->
-    <footer>
-      <p>&copy; 2024 Restaurant Name. All rights reserved.</p>
+      <footer>
+      <p>Copyright ©404Found Studio 2024</p>
     </footer>
   `;
 

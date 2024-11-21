@@ -1,11 +1,11 @@
 // Importing images used for each menu item
-import signUpImage from "./images/Sign-up.png";
+import signUpImage from "./images/Sign-up.jpeg";
 import etchasketchImage from "./images/Etch-a-sketch.png";
-import tictactoeImage from "./images/tictactoe.png";
-import restaurantImage from "./images/restaurant_image.png";
+import tictactoeImage from "./images/tictactoe.jpeg";
+import restaurantImage from "./images/restaurant_image.jpeg";
 
-import weatherappImage from "./images/WeatherApp.png";
-import todolistImage from "./images/To-do list.png";
+import weatherappImage from "./images/WeatherApp.jpeg";
+import todolistImage from "./images/To-do list.jpeg";
 import libraryImage from "./images/library.png";
 import calculatorImage from "./images/calculator.png";
 
@@ -147,6 +147,9 @@ function createMenuPage() {
           </div>
         </div>
           </div></section>
+            <footer>
+      <p>Copyright ©404Found Studio 2024</p>
+    </footer>
   `;
 
   return menuDiv;
