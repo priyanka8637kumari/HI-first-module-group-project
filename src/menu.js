@@ -47,7 +47,7 @@ function createMenuPage() {
             <div class="portfolio-content">
               <h3>Tic Tac Toe Project</h3>
               <p>It is a classic implementation of the popular two-player strategy game.<br>Key concepts: DOM manipulation using JavaScript, HTML, and CSS</p>
-              <a href="#" class="portfolio-button">Go To Project</a>
+              <a href="https://github.com/priyanka8637kumari/Tic-Tac-Toe-Project" class="portfolio-button">Go To Project</a>
             </div>
           </div>
 
@@ -64,7 +64,7 @@ function createMenuPage() {
               It is a fully functional, responsive restaurant webpage <br />Key
               concepts: JavaScript, Webpack, and modular ES6 architecture
             </p>
-            <a href="#" class="portfolio-button">Go to Project</a>
+            <a href="https://github.com/fed26sto-fundamentals/restaurant-page-priyanka8637kumari" class="portfolio-button">Go to Project</a>
           </div>
         </div>
 
@@ -142,7 +142,7 @@ function createMenuPage() {
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </p>
-            <a href="#" class="portfolio-button">Go to Project</a>
+            <a href="https://calculator-hi26.netlify.app/" class="portfolio-button">Go to Project</a>
           </div>
         </div>
           </div></section>
