@@ -1,14 +1,13 @@
 // Importing images used for each menu item
 import signUpImage from "./images/Sign-up.jpeg";
-import etchasketchImage from "./images/Etch-a-sketch.png";
+import etchasketchImage from "./images/Etch-a-sketch.jpeg";
 import tictactoeImage from "./images/tictactoe.jpeg";
 import restaurantImage from "./images/restaurant_image.jpeg";
 
 import weatherappImage from "./images/WeatherApp.jpeg";
 import todolistImage from "./images/To-do list.jpeg";
-import libraryImage from "./images/library.png";
+import libraryImage from "./images/library.jpeg";
 import calculatorImage from "./images/calculator.png";
-
 
 /* Generates the content for the Menu Page */
 function createMenuPage() {

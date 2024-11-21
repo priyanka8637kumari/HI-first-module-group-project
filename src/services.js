@@ -1,10 +1,10 @@
 /* Generates the content for the Contact Page */
 function createservicesPage() {
-    const servicesDiv = document.createElement('div');
-    servicesDiv.classList.add('servicesPageContainer');
-  
-    // Define the inner HTML structure for the contact page
-    servicesDiv.innerHTML = `
+  const servicesDiv = document.createElement("div");
+  servicesDiv.classList.add("servicesPageContainer");
+
+  // Define the inner HTML structure for the contact page
+  servicesDiv.innerHTML = `
       <section class="services">
         <h2 class="portfolio-title">Our Services</h2>
         <div class="services-container">
@@ -58,9 +58,8 @@ function createservicesPage() {
       <p>Copyright ©404Found Studio 2024</p>
     </footer>
     `;
-  
-    return servicesDiv;
-  }
-  
-  export default createservicesPage;
-  
+
+  return servicesDiv;
+}
+
+export default createservicesPage;

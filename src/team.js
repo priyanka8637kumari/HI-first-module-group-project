@@ -5,13 +5,13 @@ import rannaImage from "./images/Raana.jpeg";
 import sergioImage from "./images/Sergio.jpg";
 
 function createTeamPage() {
-    const teamDiv = document.createElement('div');
-    teamDiv.classList.add('teamPageContainer');
-  
-    // Define the inner HTML structure for the contact page
-    teamDiv.innerHTML = `
+  const teamDiv = document.createElement("div");
+  teamDiv.classList.add("teamPageContainer");
+
+  // Define the inner HTML structure for the contact page
+  teamDiv.innerHTML = `
       <section class="team">
-      <h2 class="portfolio-title">Who We Are</h2>
+      <h2 class="team-title">Who We Are</h2>
       
        <div class="team-member">
           <img src="${priyankaImage}" alt="Priyanka" />
@@ -142,9 +142,8 @@ function createTeamPage() {
     </footer>
      
     `;
-  
-    return teamDiv;
-  }
-  
-  export default createTeamPage;
-  
+
+  return teamDiv;
+}
+
+export default createTeamPage;

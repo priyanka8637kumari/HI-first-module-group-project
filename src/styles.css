@@ -267,7 +267,7 @@ h2 {
   background-color: #f9f9f9;
 }
 
-.portfolio-title {
+.portfolio-title, .team-title {
   font-size: 2.5rem;
   color: teal;
   margin-bottom: 30px;
@@ -484,6 +484,18 @@ textarea {
   font-size: 46px;
   color: #008080;
 }
+.team-title{
+  padding-top: 30px;
+}
+.team-title::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: teal;
+  margin: 10px auto;
+}
+
 
 .team-member {
   display: flex;
@@ -530,6 +542,15 @@ textarea {
   .team-member h2 {
     margin-top: 10px;
   }
+.name-icon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  
+}
+@media (max-width: 480px){
+  
 }
 svg {
   width: 30px;
